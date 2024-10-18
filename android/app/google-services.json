@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "936132369961",
+    "project_id": "xdebgroupe2",
+    "storage_bucket": "xdebgroupe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936132369961:android:f325ba839a94b376e80638",
+        "android_client_info": {
+          "package_name": "com.example.mlprojet2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqt3Q5Rvg0m0aExSeHEa37O5RINoNHbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936132369961:android:7925d2535b6221aae80638",
+        "android_client_info": {
+          "package_name": "com.example.musicefreixdevgrp22024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqt3Q5Rvg0m0aExSeHEa37O5RINoNHbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936132369961:android:39d8eff1064ea874e80638",
+        "android_client_info": {
+          "package_name": "com.music.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqt3Q5Rvg0m0aExSeHEa37O5RINoNHbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
